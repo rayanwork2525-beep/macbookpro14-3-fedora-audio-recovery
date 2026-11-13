@@ -1,0 +1,3 @@
+Driver source in vendor/ is an unmodified snapshot of davidjo/snd_hda_macbookpro at 89b22ff90b86468b186706861dd18663562defa7. Original authors retain copyright; original license and notices are preserved. New recovery documentation and check script are provided under GPL-2.0-only. This project documents an existing working installation; it does not claim to have authored the driver or discovered the historical cause of the macOS problem.
+
+The two upstream WAV test samples are omitted from this repository; all driver source and build files are preserved unchanged. They remain available at the cited upstream revision and in the original local archive.
